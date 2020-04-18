@@ -1,0 +1,3 @@
+## Template Base
+
+Exemplod de branch remotas em projetos opensource....
